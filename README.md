@@ -1,3 +1,11 @@
+## Colaboradores
+
+| [<img src="https://avatars2.githubusercontent.com/u/29049644?s=460&u=07762da9abb81cb280612caaa7ad0ff65889726a&v=4" width=115><br><sub>Lucas Miranda</sub>](https://github.com/lucas-lm) | [<img src="https://avatars3.githubusercontent.com/u/31359652?s=460&u=b017f1a32dcca86b9c62a124982ba3340d3ba97f&v=4" width=115><br><sub>Adryan Freitas</sub>](https://github.com/adryansf) | [<img src="https://avatars2.githubusercontent.com/u/31988673?s=460&v=4" width=115><br><sub>Giovanna Mascarenhas</sub>](https://github.com/giovannamascarenhas) | [<img src="https://avatars2.githubusercontent.com/u/42943096?s=460&u=fb210a4492994aaecaba3f780326e391e4750df8&v=4" width=115><br><sub>Paul Pessoa</sub>](https://github.com/paulmspessoa) |
+| :---: | :---: | :---: | :---: |
+
+<br><br>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
